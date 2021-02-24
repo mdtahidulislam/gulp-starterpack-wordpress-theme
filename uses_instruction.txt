@@ -1,0 +1,4 @@
+-- extract files into the project file
+-- npm install
+-- change theme name into package.json file
+-- change proxy link into gulfile.babel.js
